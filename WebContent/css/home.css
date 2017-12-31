@@ -1,0 +1,91 @@
+@charset "UTF-8";
+/*header*/
+
+
+	/*logo*/
+	#khung-logo{
+		min-height:85px;
+		background-color: white;
+	}
+
+	.logoo{
+		width:65%;
+	}
+
+	.hotline{
+		font-weight: bold;
+		margin : 10px;
+		color:#e61a1a;
+		
+	}
+
+	/*menu*/
+	#navbar{
+		background-color: #5bc0de;
+		min-height:15px;	
+	}
+	#btn-home{
+	width:25%;
+	height:35px;
+	text-align:center;
+	font-size:100%;
+}
+#btn-vaothi{
+	width:25%;
+	height:35px;
+	text-align:center;font-size:100%;
+}
+#btn-ketqua{
+	width:25%;
+	height:35px;
+	text-align:center;font-size:100%;
+}
+#btn-huongdan{
+	width:22%;
+	height:35px;
+	text-align:center;font-size:100%;
+}
+#input-search{
+	width:100%;
+	margin:auto;
+}
+	
+	
+	
+	/*carousel*/
+	#carousell{
+	min-height:10px;
+	}
+	.carousel-inner img{
+ 	 width:100%;
+ 	 max-height:300px;
+	}
+	
+	
+	/* content*/
+	.header{
+		margin:40px;
+	}
+	#hr1{
+		height:5px;
+		color:red;
+	}
+	.text{
+		font-size: 18px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+/*footer*/
+#footer{
+	border: 2px solid red;
+	min-height:50px;
+}
